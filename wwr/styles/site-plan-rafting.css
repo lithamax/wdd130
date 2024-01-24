@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&family=Catamaran:wght@200&display=swap');
 body {
     font-family: var(--paragraph-font);
     max-width: 960px;
@@ -10,7 +11,7 @@ body {
     --accent1-color: #A8F9FF;
     --accent2-color: #BAA4A1;
 
-    --heading-font: 'Coustard', serif;
+    --heading-font: 'Calistoga', serif;
     --paragraph-font: 'Catamaran', sans-serif;
 
     --nav-background-color: #4BD0D2;
